@@ -1,1 +1,1 @@
-# Information-of-students
+# Store Information of 10 Students Using Structure
